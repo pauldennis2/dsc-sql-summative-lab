@@ -164,3 +164,4 @@ cython_debug/
 
 # PD additions
 im.db
+im.db-journal
